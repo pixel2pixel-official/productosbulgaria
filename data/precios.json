@@ -1,0 +1,3254 @@
+{
+ "actualizado": null,
+ "productos": {
+  "rosas-cuidado-facial-agua-de-rosas-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-agua-de-rosas-organica": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-agua-micelar-3-en-1-roses": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-agua-micelar-bifasica-de-hialurosa": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-agua-micelar-de-colageno-activo": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-complejo-antiedad-crema-antiarrugas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-antiarrugas-para-el-rostro-y-el-escote-me-no-rose": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-antiarrugas-para-rosas-retinol-hero-para-rostro-y-escote": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-normal-a-mixta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-seca-y-sensible": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-de-dia-intensiva-antiarrugas-para-piel-normal": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-de-dia-profundamente-hidratante-para-todo-tipo-de-piel": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-de-noche-intensiva-antiarrugas-para-todo-tipo-de-piel": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-en-gel-de-dia-antiarrugas-q10-multi-lift": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-en-gel-de-dia-para-el-acne": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-facial-intensiva-antiedad-multiflexion-de-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-crema-intensiva-antiarrugas-para-el-contorno-de-ojos-para-piel-normal": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-gel-crema-de-dia-con-colageno-activo-y-relleno-dermico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-gel-hialuronico-de-uso-diario-con-jalea-de-hialurosa": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-gel-limpiador-facial-para-todo-tipo-de-pieles": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-hialurose-serum-en-gotas-de-acido-hialuronico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-hyalurose-crema-antiarrugas-en-gel-hialuronico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-limpiador-facial-espumoso-4-en-1-roses": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-mascarilla-facial-exfoliante-negra-brillante": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-serum-en-gotas-antiedad-con-colageno-activo": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-serum-lifting-q10-multi-lift": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-serum-reafirmante-con-agua-de-rosas-organica": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-toallitas-humedas-limpiadoras-para-piel-seca-y-sensible": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-aceite-de-rosa": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-pepino": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-body-bomb-crema-corporal-hidratante-con-vitamina-c-e": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-corporal-hidratante-antiedad-blooming": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-antiedad-hialurosa-con-acido-hialuronico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-hidratante-con-pepino-y-vitamina-c": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-hidratante-sos-hydra": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-nutritiva-y-caliente-sos": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-regeneradora-con-extracto-de-granada-y-vitamina-c": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-de-manos-suavizante-con-agua-de-rosas-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-nutritiva-con-complejo-de-vitaminas-a-e-con-agua-de-rosas-nat": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-crema-reparadora-de-manos-sos-repair": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-desodorante-en-spray-para-cabello-y-cuerpo-bossy-me-mini": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-espuma-limpiadora-de-manos-con-espuma-de-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-blooming": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-body-bomb": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-make-me-iconic": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-gel-de-ducha-profundamente-hidratante-para-piel-seca-con-agua-de-ro": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-gel-de-ducha-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-de-bano-blanco-con-un-color-rosa-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-de-bano-con-un-color-rosa-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-aceite-de-argan": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-aloe-vera": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-carbon-activado": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-granada": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-lavanda": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-jabon-natural-rosas-con-una-rosa": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-make-me-iconica-crema-corporal-hidratante-y-suavizante-con-colageno": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-saborea-mi-piel-crema-corporal-hidratante-48h": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-bossy-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me-mini": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-juicy-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me-mini": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me-mini": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-tasty-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me-mini": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-taste-my-skin-gel-de-ducha-hidratante-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-corporal-toallitas-humedas-de-limpieza-con-un-delicado-aroma-a-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-capilar-acondicionador-revitalizante-para-un-cabello-fuerte-y-vibrante": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-capilar-champu-para-cabello-danado-y-seco-con-agua-de-rosas-natural-y-aceite": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-cuidado-capilar-champu-revitalizante-para-un-cabello-fuerte-y-vibrante-con-elixir-ro": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-bloom-eau-de-parfum-con-un-aroma-delicado": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-desodorante-con-perfume-bloom-con-un-aroma-suave-y-encantador": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-desodorante-perfumado-fantasy-con-un-delicado-aroma-a-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-eau-de-parfum-fantasy-con-un-aroma-delicado": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas-variante-2": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-serie-royal-jabon-de-manos-con-color-rosa-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-serie-royal-toallitas-perfumadas-con-un-delicado-aroma-a-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-juego-de-ensalada-de-frutas-intensamente-hidratante-crema-en-gel-hidr": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-crispy-wish-crema-corporal-hidratante-y-gel-de-ducha-na": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-bayas-y-pimienta-negra": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-lima-pomelo-y-menta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-mango-kiwi-y-aguacate": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-de-galletas-de-jengibre-exfoliante-de-azucar-para-rostr": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-jingle-red-miracle-crema-corporal-hidratante-y-gel-de-d": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-navideno-de-peras-exfoliante-de-azucar-para-rostro-y-cu": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-regalo-noches-de-azucar-crema-corporal-hidratante-y-gel-de-duc": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-sets-de-regalo-set-de-rosas-cuidado-intensivo-iluminador-antiedad-crema-facial-ilumi": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-miracle-rose-champu-revitalizante-y-reparador-rosy-me-con-agua-de-rosas-natural-alan": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-miracle-rose-crema-facial-de-dia-con-acido-hialuronico-con-acido-hialuronico-y-agua-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-miracle-rose-crema-regeneradora-de-manos-miracle-rosy-para-piel-seca-y-muy-seca": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-miracle-rose-crema-revitalizante-para-rostro-y-cuerpo-miracle-rosy-con-agua-de-rosas": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "rosas-miracle-rose-gel-de-ducha-relajante-rosy-me-con-agua-de-rosas-natural": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-facial-ensalada-de-frutas-crema-en-gel-con-vitamina-c-contra-las-arrugas-co": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-facial-gel-crema-hidratante-con-vitamina-c-para-ensalada-de-frutas-con-extr": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-frutos-rojos-y-pimienta-negra-con-bolit": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-mango-kiwi-y-aguacate-con-bolitas-de-ja": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-menta-lima-y-pomelo-con-bolitas-de-jabo": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-papaya-con-bolitas-de-jabon": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-sandia-melon-y-miel-con-bolitas-de-jabo": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-yogur-agua-de-rosas-y-chocolate-con-bol": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-cinta-perfumada-con-vainilla-2-en-1-con-bolitas-de-jabon": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-crema-de-manos-hidratante-con-sabor-a-ensalada-de-vegetales-con-ex": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-crema-de-manos-restauradora-con-sabor-a-ensalada-de-vegetales-con-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-crema-de-manos-suavizante-con-sabor-a-ensalada-de-vegetales-con-ac": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-agua-de-rosas-natural-ensalada-de-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-aroma-a-cafe-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-papaya-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-vainilla-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-calabaza-y-canela-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-granada-y-naranja-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-jengibre-y-canela-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-mango-aguacate-y-kiwi-ensalada-de-f": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-manzana-y-canela-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-pera-y-vainilla-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-sandia-melon-y-miel-ensalada-de-fru": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-yogur-agua-de-rosas-y-chocolate-ensala": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-exfoliante-de-azucar-y-coco-2-en-1-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-corporal-antiedad-con-sabor-a-ensalada-de-frutas-con-agua-de-r": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-corporal-hidratante-intensivo-fruit-salad-con-aceite-de-coco-y": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-hidratante-de-frambuesa-y-frutos-rojos-con-extracto-d": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-mango-kiwi-aguacate-ensalada-d": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-sandia-melon-y-miel-ensalada-d": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-agua-de-rosas-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-coco-ensalada-de-fruta": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-con-agua-de-rosas-y-cacao-ensalad": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-hidratante-corporal-con-sabor-a-ensalada-de-frutas-48-h-con-co": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-hidratante-corporal-con-vitamina-c-e-de-fruit-salad-con-mango": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-gel-locion-corporal-fruit-salad-para-cuidados-intensivos-con-agua-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x-x": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-corporal-set-de-regalo-de-ensalada-de-frutas-menta-lima-y-pomelo": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-capilar-para-la-caida-del-cabello-ensalada-de-vegetales-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-capilar-regeneradora-ensalada-de-vegetales-con-argan-ros": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-capilar-reparadora-vege-salad-con-aceituna-y-proteina": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-capilar-revitalizante-vege-salad-con-cacao-rosa-y-querat": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-natural-para-cabello-seco-y-tratado-ensalada-de-vegetale": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "frutas-cuidado-capilar-mascarilla-reparadora-de-frambuesa-frutos-rojos-y-pimienta-negra-en": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-normal-a-mixta-con-aceite-de-o": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-seca-y-sensible-con-aceite-de-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "aceitunas-cuidado-facial-serum-reafirmante-con-acido-hialuronico-activo-para-pieles-madura": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "aceitunas-cuidado-corporal-jabon-de-glicerina-de-oliva-hecho-a-mano": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "aceitunas-cuidado-corporal-jabon-de-glicerina-olives-ref-109": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-cuerpo-con-extracto-de-pomel": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-rostro-con-extracto-de-pomel": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "sentidos-bandas-depilatorias-bandas-depilatorias-en-gel-para-la-zona-del-bikini-con-extrac": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-cuidado-facial-agua-de-lavanda-organica-con-efecto-hidratante-e-iluminador": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-cuidado-facial-crema-de-dia-iluminadora-para-piel-normal-con-aceite-de-lavanda-natura": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-cuidado-facial-crema-de-dia-iluminadora-para-pieles-secas-y-sensibles-con-extracto-de": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-maracuya-hecho-a-mano": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-papaya-hecho-a-mano": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-sauco-y-yogur-hecho-a-mano": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-y-aroma-marino-hecho-a-mano": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-emulsion-intima-con-acido-lactico-y-extracto-de-manzanilla": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-espuma-intima-con-extracto-de-manzanilla-y-acido-lactico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-gel-intimo-con-aloe-vera-y-acido-lactico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-gel-intimo-con-extracto-de-manzanilla-y-acido-lactico": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-toallitas-intimas-biodegradables-para-piel-sensible-con-extracto-de-": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  },
+  "intimo-higiene-intima-toallitas-intimas-biodegradables-para-un-cuidado-refrescante-con-ext": {
+   "fabrica": 0,
+   "pvp": 0,
+   "envio": {
+    "alicante": 0,
+    "peninsula": 0,
+    "baleares": 0,
+    "canarias": 0,
+    "ceuta_melilla": 0
+   },
+   "comercio": {
+    "tienda": 0,
+    "supermercado": 0,
+    "gran_superficie": 0,
+    "pvp_recomendado": 0,
+    "uds_caja": 0,
+    "pedido_minimo": 0
+   }
+  }
+ }
+}

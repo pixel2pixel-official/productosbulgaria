@@ -1,0 +1,55 @@
+/* Pixel2Pixel — base común para catálogo y gestión */
+:root{
+  --negro:#000000;
+  --grafito:#2f2f2f;
+  --naranja:#ef5d39;
+  --naranja-claro:#fde9e3;
+  --naranja-osc:#c8431f;
+  --gris-900:#1c1c1c;
+  --gris-600:#5c5c5c;
+  --gris-400:#9a9a9a;
+  --gris-200:#e3e3e1;
+  --gris-100:#f2f2f0;
+  --blanco:#ffffff;
+  --verde:#1f8a5b;
+  --verde-claro:#e3f3eb;
+  --rojo:#c62828;
+  --rojo-claro:#fbe6e6;
+  --envio:#8c8c8c;
+  --radio-s:6px;
+  --radio-m:12px;
+  --radio-l:20px;
+  --sombra:0 1px 2px rgba(0,0,0,.06),0 8px 24px -12px rgba(0,0,0,.18);
+  --fuente:"Roboto",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:var(--fuente);font-size:15px;line-height:1.5;color:var(--gris-900);background:var(--gris-100);font-feature-settings:"tnum" 1}
+img{max-width:100%;display:block}
+button,input,select{font:inherit;color:inherit}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--naranja);outline-offset:2px}
+[hidden]{display:none!important}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* Cabecera */
+.cabecera{background:var(--negro);color:var(--blanco)}
+.cabecera__in{max-width:1440px;margin:0 auto;padding:18px 28px;display:flex;align-items:center;gap:28px;flex-wrap:wrap}
+.cabecera__logo img{height:30px;width:auto}
+.cabecera__titulo{border-left:1px solid #3a3a3a;padding-left:28px;line-height:1.25}
+.cabecera__titulo strong{display:block;font-size:17px;font-weight:500}
+.cabecera__titulo span{font-size:13px;color:#b5b5b5}
+.cabecera__der{margin-left:auto;display:flex;gap:10px;align-items:center;font-size:13px;color:#b5b5b5}
+
+.boton{display:inline-flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:10px 18px;font-weight:500;cursor:pointer;background:var(--naranja);color:#fff;text-decoration:none;white-space:nowrap}
+.boton:hover{background:var(--naranja-osc)}
+.boton--sec{background:transparent;color:inherit;box-shadow:inset 0 0 0 1px currentColor}
+.boton--sec:hover{background:rgba(127,127,127,.12)}
+.boton[disabled]{opacity:.45;cursor:not-allowed}
+
+.eur{white-space:nowrap}
+.pos{color:var(--verde)}
+.neg{color:var(--rojo)}
+.cero{color:var(--gris-400)}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}

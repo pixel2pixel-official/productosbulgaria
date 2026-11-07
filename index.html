@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Catálogo Nature of Agiva para España | Pixel2Pixel</title>
+<meta name="description" content="Catálogo de productos Nature of Agiva con precios de venta online y precios para comercio en España.">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" href="img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/catalogo.css">
+</head>
+<body>
+<header class="cabecera">
+  <div class="cabecera__in">
+    <a class="cabecera__logo" href="https://pixel2pixel.eu/" target="_blank" rel="noopener"><img src="img/logo-blanco.png" alt="Pixel2Pixel" width="105" height="30"></a>
+    <div class="cabecera__titulo">
+      <strong>Nature of Agiva en España</strong>
+      <span>Catálogo y precios para colaboradores</span>
+    </div>
+    <div class="cabecera__der" id="actualizado"></div>
+  </div>
+</header>
+
+<main>
+  <section class="intro">
+    <div class="intro__texto">
+      <h1>Cosmética búlgara de rosa Damascena, lista para el mercado español</h1>
+      <p>Elige una gama para ver sus productos. Cada producto muestra dos bloques de precios: <b class="tag tag--online">Venta online</b>, con el margen según la zona de envío, y <b class="tag tag--comercio">Comercio</b>, con la tarifa para tiendas, supermercados y grandes superficies. Todos los importes son sin IVA.</p>
+    </div>
+    <nav class="gamas" id="gamas" aria-label="Gamas de producto"></nav>
+  </section>
+
+  <section class="panel" aria-label="Productos">
+    <div class="panel__barra">
+      <div class="subtabs" id="subtabs" role="tablist" aria-label="Subcategorías"></div>
+      <div class="herramientas">
+        <label class="buscar"><span class="sr-only">Buscar producto</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="buscar" type="search" placeholder="Buscar producto">
+        </label>
+        <label class="ordenar"><span>Ordenar</span>
+          <select id="ordenar">
+            <option value="nombre">Nombre</option>
+            <option value="margen">Mayor margen online</option>
+            <option value="pvp">Mayor precio de venta</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="kpis" id="kpis"></div>
+
+    <div class="leyenda" aria-hidden="true">
+      <span><i class="sw sw--fab"></i>Precio de fábrica</span>
+      <span><i class="sw sw--env"></i>Gasto de envío</span>
+      <span><i class="sw sw--mar"></i>Margen de beneficio</span>
+      <span><i class="sw sw--x"></i>Pérdida</span>
+      <span class="leyenda__nota">Cada barra representa el precio de venta online repartido por zona de envío.</span>
+    </div>
+
+    <div class="lista" id="lista" aria-live="polite"></div>
+  </section>
+</main>
+
+<footer class="pie">
+  <div class="pie__in">
+    <img src="img/logo-blanco.png" alt="Pixel2Pixel" width="84" height="24">
+    <p>Pixel 2 Pixel Reklama OOD, importación y distribución de Nature of Agiva en España</p>
+    <p><a href="mailto:info@pixel2pixel.eu">info@pixel2pixel.eu</a></p>
+    <p><a href="https://wa.me/359898858587">WhatsApp +359 898 858 587</a></p>
+  </div>
+</footer>
+
+<template id="tpl-producto">
+  <article class="prod">
+    <div class="prod__id">
+      <div class="prod__foto"><img alt="" loading="lazy" decoding="async"></div>
+      <div>
+        <p class="prod__ruta"></p>
+        <h3 class="prod__nombre"></h3>
+        <span class="prod__estado"></span>
+      </div>
+    </div>
+    <section class="bloque bloque--online">
+      <header class="bloque__cab"><h4>Venta online</h4><span>Al cliente final</span></header>
+      <div class="cifras">
+        <div><span>Precio de fábrica</span><strong data-k="fabrica"></strong></div>
+        <div><span>Precio de venta</span><strong data-k="pvp"></strong></div>
+      </div>
+      <table class="zonas">
+        <thead><tr><th scope="col">Zona de envío</th><th scope="col">Envío</th><th scope="col">Margen</th><th scope="col"><span class="sr-only">Gráfica</span></th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+    <section class="bloque bloque--comercio">
+      <header class="bloque__cab"><h4>Comercio</h4><span>Precio para revendedores</span></header>
+      <table class="tarifa">
+        <thead><tr><th scope="col">Canal</th><th scope="col">Precio</th><th scope="col">Margen</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <dl class="condic">
+        <div><dt>PVP recomendado</dt><dd data-k="pvp_recomendado"></dd></div>
+        <div><dt>Unidades por caja</dt><dd data-k="uds_caja"></dd></div>
+        <div><dt>Pedido mínimo</dt><dd data-k="pedido_minimo"></dd></div>
+      </dl>
+    </section>
+  </article>
+</template>
+
+<script src="js/comun.js"></script>
+<script src="js/catalogo.js"></script>
+</body>
+</html>

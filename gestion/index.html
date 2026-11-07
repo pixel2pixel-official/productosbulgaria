@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gestión de precios | Pixel2Pixel</title>
+<meta name="robots" content="noindex,nofollow,noarchive">
+<link rel="icon" href="../img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/base.css">
+<link rel="stylesheet" href="../css/gestion.css">
+</head>
+<body>
+<header class="cabecera">
+  <div class="cabecera__in">
+    <img src="../img/logo-blanco.png" alt="Pixel2Pixel" width="105" height="30" style="height:30px;width:auto">
+    <div class="cabecera__titulo">
+      <strong>Gestión de precios</strong>
+      <span>Nature of Agiva, uso interno</span>
+    </div>
+    <div class="cabecera__der">
+      <span id="usuario"></span>
+      <a class="boton boton--sec" href="../" target="_blank" rel="noopener">Ver catálogo</a>
+      <button class="boton boton--sec" id="salir" type="button" hidden>Desconectar</button>
+    </div>
+  </div>
+</header>
+
+<!-- Acceso -->
+<section class="acceso" id="acceso" hidden>
+  <form class="acceso__caja" id="form-acceso">
+    <img src="../img/icono-p.png" alt="" width="56" height="56">
+    <h1>Acceso restringido</h1>
+    <p>Este panel guarda los precios directamente en el repositorio. Introduce el token de GitHub con permiso de escritura en <b>productosbulgaria</b>.</p>
+    <label for="token">Token de GitHub</label>
+    <input id="token" type="password" autocomplete="off" required placeholder="github_pat_…">
+    <label class="check"><input type="checkbox" id="recordar" checked> Recordar en este navegador</label>
+    <p class="error" id="error-acceso" role="alert"></p>
+    <button class="boton" type="submit">Entrar</button>
+    <details>
+      <summary>Cómo crear el token</summary>
+      <ol>
+        <li>Abre <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub, nuevo token fine-grained</a>.</li>
+        <li>Resource owner: <b>pixel2pixel-official</b>. Repository access: solo <b>productosbulgaria</b>.</li>
+        <li>Permisos de repositorio: <b>Contents: Read and write</b>.</li>
+        <li>Genera el token, cópialo y pégalo aquí.</li>
+      </ol>
+    </details>
+  </form>
+</section>
+
+<!-- Editor -->
+<main class="editor" id="editor" hidden>
+  <div class="barra">
+    <div class="barra__fila">
+      <label class="campo"><span>Gama</span>
+        <select id="f-gama"><option value="">Todas las gamas</option></select>
+      </label>
+      <label class="campo"><span>Subcategoría</span>
+        <select id="f-sub"><option value="">Todas</option></select>
+      </label>
+      <label class="campo campo--buscar"><span>Buscar</span>
+        <input id="f-q" type="search" placeholder="Nombre del producto">
+      </label>
+      <label class="check"><input type="checkbox" id="f-pend"> Solo sin precio</label>
+      <div class="barra__acciones">
+        <span class="estado" id="estado" aria-live="polite"></span>
+        <button class="boton boton--sec" id="descargar" type="button">Descargar copia</button>
+        <button class="boton" id="guardar" type="button" disabled>Guardar y publicar</button>
+      </div>
+    </div>
+    <details class="bloque-masivo">
+      <summary>Rellenar en bloque</summary>
+      <div class="bloque-masivo__in">
+        <p>Aplica un mismo valor a todos los productos que se ven ahora en la tabla (<b id="n-visibles">0</b>).</p>
+        <label class="campo"><span>Campo</span><select id="m-campo"></select></label>
+        <label class="campo"><span>Valor</span><input id="m-valor" inputmode="decimal" placeholder="0,00"></label>
+        <label class="check"><input type="checkbox" id="m-vacios" checked> Solo donde esté a cero</label>
+        <button class="boton" id="m-aplicar" type="button">Aplicar</button>
+      </div>
+    </details>
+  </div>
+
+  <div class="tabla-wrap">
+    <table class="tabla" id="tabla">
+      <thead>
+        <tr class="grupo">
+          <th rowspan="2" class="col-prod">Producto</th>
+          <th colspan="9" class="g-online">Venta online (sin IVA)</th>
+          <th colspan="6" class="g-comercio">Comercio (sin IVA)</th>
+        </tr>
+        <tr class="cols">
+          <th class="g-online">Fábrica</th><th class="g-online">Precio venta</th>
+          <th class="g-online">Envío Alicante</th><th class="g-online">Envío Península</th><th class="g-online">Envío Baleares</th><th class="g-online">Envío Canarias</th><th class="g-online">Envío Ceuta y Melilla</th>
+          <th class="g-online calc">Margen Península</th><th class="g-online calc">Margen Canarias</th>
+          <th class="g-comercio">Tiendas</th><th class="g-comercio">Super&shy;mercados</th><th class="g-comercio">Grandes superficies</th><th class="g-comercio">PVP recom.</th><th class="g-comercio">Uds. caja</th><th class="g-comercio">Pedido mín.</th>
+        </tr>
+      </thead>
+      <tbody id="cuerpo"></tbody>
+    </table>
+  </div>
+</main>
+
+<div class="aviso" id="aviso" role="status" hidden></div>
+
+<script src="../js/comun.js"></script>
+<script src="../js/gestion.js"></script>
+</body>
+</html>

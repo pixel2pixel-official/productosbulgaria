@@ -1,0 +1,1304 @@
+{
+ "marca": "Nature of Agiva",
+ "categorias": [
+  {
+   "id": "rosas",
+   "nombre": "Rosas",
+   "subcategorias": [
+    {
+     "id": "cuidado-facial",
+     "nombre": "Cuidado facial"
+    },
+    {
+     "id": "cuidado-corporal",
+     "nombre": "Cuidado corporal"
+    },
+    {
+     "id": "cuidado-capilar",
+     "nombre": "Cuidado capilar"
+    },
+    {
+     "id": "fragancias",
+     "nombre": "Fragancias"
+    },
+    {
+     "id": "serie-royal",
+     "nombre": "Serie Royal"
+    },
+    {
+     "id": "sets-de-regalo",
+     "nombre": "Sets de regalo"
+    },
+    {
+     "id": "miracle-rose",
+     "nombre": "Miracle Rose"
+    }
+   ]
+  },
+  {
+   "id": "frutas",
+   "nombre": "Ensalada de frutas y verduras",
+   "subcategorias": [
+    {
+     "id": "cuidado-facial",
+     "nombre": "Cuidado facial"
+    },
+    {
+     "id": "cuidado-corporal",
+     "nombre": "Cuidado corporal"
+    },
+    {
+     "id": "cuidado-capilar",
+     "nombre": "Cuidado capilar"
+    }
+   ]
+  },
+  {
+   "id": "aceitunas",
+   "nombre": "Aceitunas",
+   "subcategorias": [
+    {
+     "id": "cuidado-facial",
+     "nombre": "Cuidado facial"
+    },
+    {
+     "id": "cuidado-corporal",
+     "nombre": "Cuidado corporal"
+    }
+   ]
+  },
+  {
+   "id": "sentidos",
+   "nombre": "Sentidos",
+   "subcategorias": [
+    {
+     "id": "bandas-depilatorias",
+     "nombre": "Bandas depilatorias"
+    }
+   ]
+  },
+  {
+   "id": "flor",
+   "nombre": "Flor",
+   "subcategorias": [
+    {
+     "id": "cuidado-facial",
+     "nombre": "Cuidado facial"
+    },
+    {
+     "id": "jabones-de-glicerina",
+     "nombre": "Jabones de glicerina"
+    }
+   ]
+  },
+  {
+   "id": "intimo",
+   "nombre": "Íntimo",
+   "subcategorias": [
+    {
+     "id": "higiene-intima",
+     "nombre": "Higiene íntima"
+    }
+   ]
+  }
+ ],
+ "productos": [
+  {
+   "id": "rosas-cuidado-facial-agua-de-rosas-natural",
+   "nombre": "Agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-agua-de-rosas-natural.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-agua-de-rosas-organica",
+   "nombre": "Agua de rosas orgánica",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-agua-de-rosas-organica.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-agua-micelar-3-en-1-roses",
+   "nombre": "Agua micelar 3 en 1 ROSES",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-agua-micelar-3-en-1-roses.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-agua-micelar-bifasica-de-hialurosa",
+   "nombre": "Agua micelar bifásica de hialurosa",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-agua-micelar-bifasica-de-hialurosa.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-agua-micelar-de-colageno-activo",
+   "nombre": "Agua micelar de colágeno activo",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-agua-micelar-de-colageno-activo.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-complejo-antiedad-crema-antiarrugas",
+   "nombre": "Complejo antiedad crema antiarrugas",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-complejo-antiedad-crema-antiarrugas.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-antiarrugas-para-el-rostro-y-el-escote-me-no-rose",
+   "nombre": "Crema antiarrugas para el rostro y el escote me[no]rose",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-antiarrugas-para-el-rostro-y-el-escote-me-no-rose.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-antiarrugas-para-rosas-retinol-hero-para-rostro-y-escote",
+   "nombre": "Crema antiarrugas para rosas retinol hero para rostro y escote",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-antiarrugas-para-rosas-retinol-hero-para-rostro-y-escote.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-normal-a-mixta",
+   "nombre": "Crema de día hidratante para piel normal a mixta",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-normal-a-mixta.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-seca-y-sensible",
+   "nombre": "Crema de día hidratante para piel seca y sensible",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-de-dia-hidratante-para-piel-seca-y-sensible.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-de-dia-intensiva-antiarrugas-para-piel-normal",
+   "nombre": "Crema de día intensiva antiarrugas para piel normal",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-de-dia-intensiva-antiarrugas-para-piel-normal.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-de-dia-profundamente-hidratante-para-todo-tipo-de-piel",
+   "nombre": "Crema de día profundamente hidratante para todo tipo de piel",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-de-dia-profundamente-hidratante-para-todo-tipo-de-piel.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-de-noche-intensiva-antiarrugas-para-todo-tipo-de-piel",
+   "nombre": "Crema de noche intensiva antiarrugas para todo tipo de piel",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-de-noche-intensiva-antiarrugas-para-todo-tipo-de-piel.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-en-gel-de-dia-antiarrugas-q10-multi-lift",
+   "nombre": "Crema en gel de día antiarrugas Q10 MULTI LIFT",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-en-gel-de-dia-antiarrugas-q10-multi-lift.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-en-gel-de-dia-para-el-acne",
+   "nombre": "Crema en gel de día para el acné",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-en-gel-de-dia-para-el-acne.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-facial-intensiva-antiedad-multiflexion-de-rosas",
+   "nombre": "Crema facial intensiva antiedad multiflexión de rosas",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-facial-intensiva-antiedad-multiflexion-de-rosas.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-crema-intensiva-antiarrugas-para-el-contorno-de-ojos-para-piel-normal",
+   "nombre": "Crema intensiva antiarrugas para el contorno de ojos para piel normal",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-crema-intensiva-antiarrugas-para-el-contorno-de-ojos-para-piel-normal.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-gel-crema-de-dia-con-colageno-activo-y-relleno-dermico",
+   "nombre": "Gel crema de día con colágeno activo y relleno dérmico",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-gel-crema-de-dia-con-colageno-activo-y-relleno-dermico.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-gel-hialuronico-de-uso-diario-con-jalea-de-hialurosa",
+   "nombre": "Gel hialurónico de uso diario con jalea de hialurosa",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-gel-hialuronico-de-uso-diario-con-jalea-de-hialurosa.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-gel-limpiador-facial-para-todo-tipo-de-pieles",
+   "nombre": "Gel limpiador facial para todo tipo de pieles",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-gel-limpiador-facial-para-todo-tipo-de-pieles.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-hialurose-serum-en-gotas-de-acido-hialuronico",
+   "nombre": "HIALUROSE Sérum en gotas de ácido hialurónico",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-hialurose-serum-en-gotas-de-acido-hialuronico.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-hyalurose-crema-antiarrugas-en-gel-hialuronico",
+   "nombre": "HYALUROSE Crema antiarrugas en gel hialurónico",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-hyalurose-crema-antiarrugas-en-gel-hialuronico.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-limpiador-facial-espumoso-4-en-1-roses",
+   "nombre": "Limpiador facial espumoso 4 en 1 ROSES",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-limpiador-facial-espumoso-4-en-1-roses.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-mascarilla-facial-exfoliante-negra-brillante",
+   "nombre": "Mascarilla facial exfoliante negra brillante",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-mascarilla-facial-exfoliante-negra-brillante.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-serum-en-gotas-antiedad-con-colageno-activo",
+   "nombre": "Sérum en gotas antiedad con colágeno activo",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-serum-en-gotas-antiedad-con-colageno-activo.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-serum-lifting-q10-multi-lift",
+   "nombre": "Sérum lifting Q10 MULTI LIFT",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-serum-lifting-q10-multi-lift.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-serum-reafirmante-con-agua-de-rosas-organica",
+   "nombre": "Sérum reafirmante con agua de rosas orgánica",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-serum-reafirmante-con-agua-de-rosas-organica.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-toallitas-humedas-limpiadoras-para-piel-seca-y-sensible",
+   "nombre": "Toallitas húmedas limpiadoras para piel seca y sensible",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-toallitas-humedas-limpiadoras-para-piel-seca-y-sensible.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-aceite-de-rosa",
+   "nombre": "Toallitas limpiadoras biodegradables con aceite de rosa",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-aceite-de-rosa.webp"
+  },
+  {
+   "id": "rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-pepino",
+   "nombre": "Toallitas limpiadoras biodegradables con pepino",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/rosas-cuidado-facial-toallitas-limpiadoras-biodegradables-con-pepino.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-body-bomb-crema-corporal-hidratante-con-vitamina-c-e",
+   "nombre": "BODY BOMB Crema corporal hidratante con vitamina C+E",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-body-bomb-crema-corporal-hidratante-con-vitamina-c-e.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-corporal-hidratante-antiedad-blooming",
+   "nombre": "Crema corporal hidratante antiedad BLOOMING",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-corporal-hidratante-antiedad-blooming.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-antiedad-hialurosa-con-acido-hialuronico",
+   "nombre": "Crema de manos antiedad hialurosa con ácido hialurónico",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-antiedad-hialurosa-con-acido-hialuronico.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-hidratante-con-pepino-y-vitamina-c",
+   "nombre": "Crema de manos hidratante con pepino y vitamina c",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-hidratante-con-pepino-y-vitamina-c.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-hidratante-sos-hydra",
+   "nombre": "Crema de manos hidratante sos hydra",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-hidratante-sos-hydra.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-nutritiva-y-caliente-sos",
+   "nombre": "Crema de manos nutritiva y caliente sos",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-nutritiva-y-caliente-sos.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-regeneradora-con-extracto-de-granada-y-vitamina-c",
+   "nombre": "Crema de manos regeneradora con extracto de granada y vitamina c",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-regeneradora-con-extracto-de-granada-y-vitamina-c.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-de-manos-suavizante-con-agua-de-rosas-natural",
+   "nombre": "Crema de manos suavizante con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-de-manos-suavizante-con-agua-de-rosas-natural.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-nutritiva-con-complejo-de-vitaminas-a-e-con-agua-de-rosas-nat",
+   "nombre": "Crema nutritiva con complejo de vitaminas A+E con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-nutritiva-con-complejo-de-vitaminas-a-e-con-agua-de-rosas-nat.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-crema-reparadora-de-manos-sos-repair",
+   "nombre": "Crema reparadora de manos sos repair",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-crema-reparadora-de-manos-sos-repair.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-desodorante-en-spray-para-cabello-y-cuerpo-bossy-me-mini",
+   "nombre": "Desodorante en spray para cabello y cuerpo Bossy Me - Mini",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-desodorante-en-spray-para-cabello-y-cuerpo-bossy-me-mini.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-espuma-limpiadora-de-manos-con-espuma-de-rosas",
+   "nombre": "Espuma limpiadora de manos con espuma de rosas",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-espuma-limpiadora-de-manos-con-espuma-de-rosas.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-blooming",
+   "nombre": "Gel de ducha hidratante natural BLOOMING",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-blooming.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-body-bomb",
+   "nombre": "Gel de ducha hidratante natural BODY BOMB",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-body-bomb.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-make-me-iconic",
+   "nombre": "Gel de ducha hidratante natural MAKE ME ICONIC",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-gel-de-ducha-hidratante-natural-make-me-iconic.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-gel-de-ducha-profundamente-hidratante-para-piel-seca-con-agua-de-ro",
+   "nombre": "Gel de ducha profundamente hidratante para piel seca con agua de rosas natural y aceite de argán",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-gel-de-ducha-profundamente-hidratante-para-piel-seca-con-agua-de-ro.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-gel-de-ducha-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas",
+   "nombre": "Gel de ducha revitalizante para todo tipo de piel con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-gel-de-ducha-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-de-bano-blanco-con-un-color-rosa-natural",
+   "nombre": "Jabón de baño blanco con un color rosa natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-de-bano-blanco-con-un-color-rosa-natural.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-de-bano-con-un-color-rosa-natural",
+   "nombre": "Jabón de baño con un color rosa natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-de-bano-con-un-color-rosa-natural.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-aceite-de-argan",
+   "nombre": "Jabón natural ROSAS con aceite de argán",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-aceite-de-argan.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-aloe-vera",
+   "nombre": "Jabón natural ROSAS con aloe vera",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-aloe-vera.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-carbon-activado",
+   "nombre": "Jabón natural ROSAS con carbón activado",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-carbon-activado.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-granada",
+   "nombre": "Jabón natural ROSAS con granada",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-granada.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-lavanda",
+   "nombre": "Jabón natural ROSAS con lavanda",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-lavanda.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-jabon-natural-rosas-con-una-rosa",
+   "nombre": "Jabón natural ROSAS con una rosa",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-jabon-natural-rosas-con-una-rosa.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-make-me-iconica-crema-corporal-hidratante-y-suavizante-con-colageno",
+   "nombre": "MAKE ME ICÓNICA Crema Corporal Hidratante y Suavizante con Colágeno+",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-make-me-iconica-crema-corporal-hidratante-y-suavizante-con-colageno.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-saborea-mi-piel-crema-corporal-hidratante-48h",
+   "nombre": "SABOREA MI PIEL Crema corporal hidratante 48h",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-saborea-mi-piel-crema-corporal-hidratante-48h.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-bossy-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Bossy Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-bossy-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Fancy Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me-mini",
+   "nombre": "Spray perfumado para cabello y cuerpo Fancy Me - Mini",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-fancy-me-mini.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-juicy-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Juicy Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-juicy-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Mystic Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me-mini",
+   "nombre": "Spray perfumado para cabello y cuerpo Mystic Me - Mini",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-mystic-me-mini.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Shiny Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me-mini",
+   "nombre": "Spray perfumado para cabello y cuerpo Shiny Me - Mini",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-shiny-me-mini.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-tasty-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Tasty Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-tasty-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me",
+   "nombre": "Spray perfumado para cabello y cuerpo Wild Me",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me-mini",
+   "nombre": "Spray perfumado para cabello y cuerpo Wild Me - Mini",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-spray-perfumado-para-cabello-y-cuerpo-wild-me-mini.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-taste-my-skin-gel-de-ducha-hidratante-natural",
+   "nombre": "TASTE MY SKIN Gel de ducha hidratante natural",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-taste-my-skin-gel-de-ducha-hidratante-natural.webp"
+  },
+  {
+   "id": "rosas-cuidado-corporal-toallitas-humedas-de-limpieza-con-un-delicado-aroma-a-rosas",
+   "nombre": "Toallitas húmedas de limpieza con un delicado aroma a rosas",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/rosas-cuidado-corporal-toallitas-humedas-de-limpieza-con-un-delicado-aroma-a-rosas.webp"
+  },
+  {
+   "id": "rosas-cuidado-capilar-acondicionador-revitalizante-para-un-cabello-fuerte-y-vibrante",
+   "nombre": "Acondicionador revitalizante para un cabello fuerte y vibrante",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/rosas-cuidado-capilar-acondicionador-revitalizante-para-un-cabello-fuerte-y-vibrante.webp"
+  },
+  {
+   "id": "rosas-cuidado-capilar-champu-para-cabello-danado-y-seco-con-agua-de-rosas-natural-y-aceite",
+   "nombre": "Champú para cabello dañado y seco con agua de rosas natural y aceite de argán",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/rosas-cuidado-capilar-champu-para-cabello-danado-y-seco-con-agua-de-rosas-natural-y-aceite.webp"
+  },
+  {
+   "id": "rosas-cuidado-capilar-champu-revitalizante-para-un-cabello-fuerte-y-vibrante-con-elixir-ro",
+   "nombre": "Champú revitalizante para un cabello fuerte y vibrante con elixir rosa",
+   "categoria": "rosas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/rosas-cuidado-capilar-champu-revitalizante-para-un-cabello-fuerte-y-vibrante-con-elixir-ro.webp"
+  },
+  {
+   "id": "rosas-fragancias-bloom-eau-de-parfum-con-un-aroma-delicado",
+   "nombre": "BLOOM Eau de Parfum con un aroma delicado",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-bloom-eau-de-parfum-con-un-aroma-delicado.webp"
+  },
+  {
+   "id": "rosas-fragancias-desodorante-con-perfume-bloom-con-un-aroma-suave-y-encantador",
+   "nombre": "Desodorante con perfume Bloom con un aroma suave y encantador",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-desodorante-con-perfume-bloom-con-un-aroma-suave-y-encantador.webp"
+  },
+  {
+   "id": "rosas-fragancias-desodorante-perfumado-fantasy-con-un-delicado-aroma-a-rosas",
+   "nombre": "Desodorante perfumado Fantasy con un delicado aroma a rosas",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-desodorante-perfumado-fantasy-con-un-delicado-aroma-a-rosas.webp"
+  },
+  {
+   "id": "rosas-fragancias-eau-de-parfum-fantasy-con-un-aroma-delicado",
+   "nombre": "Eau de Parfum FANTASY con un aroma delicado",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-eau-de-parfum-fantasy-con-un-aroma-delicado.webp"
+  },
+  {
+   "id": "rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas",
+   "nombre": "Toallitas perfumadas con un delicado aroma a rosas",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas.webp"
+  },
+  {
+   "id": "rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas-variante-2",
+   "nombre": "Toallitas perfumadas con un delicado aroma a rosas · variante 2",
+   "categoria": "rosas",
+   "subcategoria": "fragancias",
+   "imagen": "img/productos/rosas-fragancias-toallitas-perfumadas-con-un-delicado-aroma-a-rosas-variante-2.webp"
+  },
+  {
+   "id": "rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu",
+   "nombre": "Crema de día revitalizante para todo tipo de piel con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "serie-royal",
+   "imagen": "img/productos/rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu.webp"
+  },
+  {
+   "id": "rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu-x",
+   "nombre": "Crema de día revitalizante para todo tipo de piel con agua de rosas natural · variante 2",
+   "categoria": "rosas",
+   "subcategoria": "serie-royal",
+   "imagen": "img/productos/rosas-serie-royal-crema-de-dia-revitalizante-para-todo-tipo-de-piel-con-agua-de-rosas-natu-x.webp"
+  },
+  {
+   "id": "rosas-serie-royal-jabon-de-manos-con-color-rosa-natural",
+   "nombre": "Jabón de manos con color rosa natural",
+   "categoria": "rosas",
+   "subcategoria": "serie-royal",
+   "imagen": "img/productos/rosas-serie-royal-jabon-de-manos-con-color-rosa-natural.webp"
+  },
+  {
+   "id": "rosas-serie-royal-toallitas-perfumadas-con-un-delicado-aroma-a-rosas",
+   "nombre": "Toallitas perfumadas con un delicado aroma a rosas",
+   "categoria": "rosas",
+   "subcategoria": "serie-royal",
+   "imagen": "img/productos/rosas-serie-royal-toallitas-perfumadas-con-un-delicado-aroma-a-rosas.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-juego-de-ensalada-de-frutas-intensamente-hidratante-crema-en-gel-hidr",
+   "nombre": "Juego de ensalada de frutas intensamente hidratante crema en gel hidratante con vitamina c, crema de manos y cinta facial",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-juego-de-ensalada-de-frutas-intensamente-hidratante-crema-en-gel-hidr.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-crispy-wish-crema-corporal-hidratante-y-gel-de-ducha-na",
+   "nombre": "Set de regalo Crispy Wish crema corporal hidratante y gel de ducha natural",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-crispy-wish-crema-corporal-hidratante-y-gel-de-ducha-na.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-bayas-y-pimienta-negra",
+   "nombre": "Set de regalo de ensalada de frutas bayas y pimienta negra",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-bayas-y-pimienta-negra.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-lima-pomelo-y-menta",
+   "nombre": "Set de regalo de ensalada de frutas lima, pomelo y menta",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-lima-pomelo-y-menta.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-mango-kiwi-y-aguacate",
+   "nombre": "Set de regalo de ensalada de frutas mango, kiwi y aguacate",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-de-ensalada-de-frutas-mango-kiwi-y-aguacate.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-de-galletas-de-jengibre-exfoliante-de-azucar-para-rostr",
+   "nombre": "Set de regalo de galletas de jengibre Exfoliante de azúcar para rostro y cuerpo, gel de ducha natural y neceser",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-de-galletas-de-jengibre-exfoliante-de-azucar-para-rostr.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-jingle-red-miracle-crema-corporal-hidratante-y-gel-de-d",
+   "nombre": "Set de regalo Jingle Red Miracle crema corporal hidratante y gel de ducha natural",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-jingle-red-miracle-crema-corporal-hidratante-y-gel-de-d.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-navideno-de-peras-exfoliante-de-azucar-para-rostro-y-cu",
+   "nombre": "Set de regalo navideño de peras Exfoliante de azúcar para rostro y cuerpo, gel de ducha natural y neceser",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-navideno-de-peras-exfoliante-de-azucar-para-rostro-y-cu.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-regalo-noches-de-azucar-crema-corporal-hidratante-y-gel-de-duc",
+   "nombre": "Set de regalo Noches de azúcar crema corporal hidratante y gel de ducha natural",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-regalo-noches-de-azucar-crema-corporal-hidratante-y-gel-de-duc.webp"
+  },
+  {
+   "id": "rosas-sets-de-regalo-set-de-rosas-cuidado-intensivo-iluminador-antiedad-crema-facial-ilumi",
+   "nombre": "Set de rosas cuidado intensivo iluminador antiedad crema facial iluminadora, crema de manos hidratante y cinta facial",
+   "categoria": "rosas",
+   "subcategoria": "sets-de-regalo",
+   "imagen": "img/productos/rosas-sets-de-regalo-set-de-rosas-cuidado-intensivo-iluminador-antiedad-crema-facial-ilumi.webp"
+  },
+  {
+   "id": "rosas-miracle-rose-champu-revitalizante-y-reparador-rosy-me-con-agua-de-rosas-natural-alan",
+   "nombre": "Champú revitalizante y reparador ROSY ME con agua de rosas natural, alantoína y queratina",
+   "categoria": "rosas",
+   "subcategoria": "miracle-rose",
+   "imagen": "img/productos/rosas-miracle-rose-champu-revitalizante-y-reparador-rosy-me-con-agua-de-rosas-natural-alan.webp"
+  },
+  {
+   "id": "rosas-miracle-rose-crema-facial-de-dia-con-acido-hialuronico-con-acido-hialuronico-y-agua-",
+   "nombre": "Crema facial de día con ácido hialurónico con ácido hialurónico y agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "miracle-rose",
+   "imagen": "img/productos/rosas-miracle-rose-crema-facial-de-dia-con-acido-hialuronico-con-acido-hialuronico-y-agua-.webp"
+  },
+  {
+   "id": "rosas-miracle-rose-crema-regeneradora-de-manos-miracle-rosy-para-piel-seca-y-muy-seca",
+   "nombre": "Crema regeneradora de manos MIRACLE ROSY para piel seca y muy seca",
+   "categoria": "rosas",
+   "subcategoria": "miracle-rose",
+   "imagen": "img/productos/rosas-miracle-rose-crema-regeneradora-de-manos-miracle-rosy-para-piel-seca-y-muy-seca.webp"
+  },
+  {
+   "id": "rosas-miracle-rose-crema-revitalizante-para-rostro-y-cuerpo-miracle-rosy-con-agua-de-rosas",
+   "nombre": "Crema revitalizante para rostro y cuerpo MIRACLE ROSY con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "miracle-rose",
+   "imagen": "img/productos/rosas-miracle-rose-crema-revitalizante-para-rostro-y-cuerpo-miracle-rosy-con-agua-de-rosas.webp"
+  },
+  {
+   "id": "rosas-miracle-rose-gel-de-ducha-relajante-rosy-me-con-agua-de-rosas-natural",
+   "nombre": "Gel de ducha relajante rosy me con agua de rosas natural",
+   "categoria": "rosas",
+   "subcategoria": "miracle-rose",
+   "imagen": "img/productos/rosas-miracle-rose-gel-de-ducha-relajante-rosy-me-con-agua-de-rosas-natural.webp"
+  },
+  {
+   "id": "frutas-cuidado-facial-ensalada-de-frutas-crema-en-gel-con-vitamina-c-contra-las-arrugas-co",
+   "nombre": "Ensalada de frutas crema en gel con vitamina c contra las arrugas con extracto de granada y agua de rosas",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/frutas-cuidado-facial-ensalada-de-frutas-crema-en-gel-con-vitamina-c-contra-las-arrugas-co.webp"
+  },
+  {
+   "id": "frutas-cuidado-facial-gel-crema-hidratante-con-vitamina-c-para-ensalada-de-frutas-con-extr",
+   "nombre": "Gel crema hidratante con vitamina C para ensalada de frutas con extracto de pepino, aloe vera y agua de rosas",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/frutas-cuidado-facial-gel-crema-hidratante-con-vitamina-c-para-ensalada-de-frutas-con-extr.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-frutos-rojos-y-pimienta-negra-con-bolit",
+   "nombre": "Cinta aromática 2 en 1 con frutos rojos y pimienta negra con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-frutos-rojos-y-pimienta-negra-con-bolit.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-mango-kiwi-y-aguacate-con-bolitas-de-ja",
+   "nombre": "Cinta aromática 2 en 1 con mango kiwi y aguacate con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-mango-kiwi-y-aguacate-con-bolitas-de-ja.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-menta-lima-y-pomelo-con-bolitas-de-jabo",
+   "nombre": "Cinta aromática 2 en 1 con menta lima y pomelo con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-menta-lima-y-pomelo-con-bolitas-de-jabo.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-papaya-con-bolitas-de-jabon",
+   "nombre": "Cinta aromática 2 en 1 con papaya con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-papaya-con-bolitas-de-jabon.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-sandia-melon-y-miel-con-bolitas-de-jabo",
+   "nombre": "Cinta aromática 2 en 1 con sandía melón y miel con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-sandia-melon-y-miel-con-bolitas-de-jabo.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-yogur-agua-de-rosas-y-chocolate-con-bol",
+   "nombre": "Cinta aromática 2 en 1 con yogur agua de rosas y chocolate con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-aromatica-2-en-1-con-yogur-agua-de-rosas-y-chocolate-con-bol.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-cinta-perfumada-con-vainilla-2-en-1-con-bolitas-de-jabon",
+   "nombre": "Cinta perfumada con vainilla 2 en 1 con bolitas de jabón",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-cinta-perfumada-con-vainilla-2-en-1-con-bolitas-de-jabon.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-crema-de-manos-hidratante-con-sabor-a-ensalada-de-vegetales-con-ex",
+   "nombre": "Crema de manos hidratante con sabor a ensalada de vegetales con extracto de tomate y zanahoria",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-crema-de-manos-hidratante-con-sabor-a-ensalada-de-vegetales-con-ex.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-crema-de-manos-restauradora-con-sabor-a-ensalada-de-vegetales-con-",
+   "nombre": "Crema de manos restauradora con sabor a ensalada de vegetales con aceite de aguacate",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-crema-de-manos-restauradora-con-sabor-a-ensalada-de-vegetales-con-.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-crema-de-manos-suavizante-con-sabor-a-ensalada-de-vegetales-con-ac",
+   "nombre": "Crema de manos suavizante con sabor a ensalada de vegetales con aceite de oliva",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-crema-de-manos-suavizante-con-sabor-a-ensalada-de-vegetales-con-ac.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-agua-de-rosas-natural-ensalada-de-",
+   "nombre": "Exfoliante de azúcar 2 en 1 con agua de rosas natural ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-agua-de-rosas-natural-ensalada-de-.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-aroma-a-cafe-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 con aroma a café ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-aroma-a-cafe-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-papaya-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 con papaya ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-papaya-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-vainilla-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 con vainilla ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-con-vainilla-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-calabaza-y-canela-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 de calabaza y canela ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-calabaza-y-canela-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-granada-y-naranja-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 de granada y naranja ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-granada-y-naranja-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-jengibre-y-canela-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 de jengibre y canela ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-jengibre-y-canela-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-mango-aguacate-y-kiwi-ensalada-de-f",
+   "nombre": "Exfoliante de azúcar 2 en 1 de mango aguacate y kiwi ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-mango-aguacate-y-kiwi-ensalada-de-f.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-manzana-y-canela-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 de manzana y canela ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-manzana-y-canela-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-pera-y-vainilla-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar 2 en 1 de pera y vainilla ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-pera-y-vainilla-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-sandia-melon-y-miel-ensalada-de-fru",
+   "nombre": "Exfoliante de azúcar 2 en 1 de sandía melón y miel ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-de-sandia-melon-y-miel-ensalada-de-fru.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-yogur-agua-de-rosas-y-chocolate-ensala",
+   "nombre": "Exfoliante de azúcar 2 en 1 yogur agua de rosas y chocolate ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-2-en-1-yogur-agua-de-rosas-y-chocolate-ensala.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-exfoliante-de-azucar-y-coco-2-en-1-ensalada-de-fruta",
+   "nombre": "Exfoliante de azúcar y coco 2 en 1 ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-exfoliante-de-azucar-y-coco-2-en-1-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-corporal-antiedad-con-sabor-a-ensalada-de-frutas-con-agua-de-r",
+   "nombre": "Gel corporal antiedad con sabor a ensalada de frutas con agua de rosas",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-corporal-antiedad-con-sabor-a-ensalada-de-frutas-con-agua-de-r.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-corporal-hidratante-intensivo-fruit-salad-con-aceite-de-coco-y",
+   "nombre": "Gel corporal hidratante intensivo FRUIT SALAD con aceite de coco y urea",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-corporal-hidratante-intensivo-fruit-salad-con-aceite-de-coco-y.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-hidratante-de-frambuesa-y-frutos-rojos-con-extracto-d",
+   "nombre": "Gel de ducha hidratante de frambuesa y frutos rojos con extracto de pimienta negra ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-hidratante-de-frambuesa-y-frutos-rojos-con-extracto-d.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-mango-kiwi-aguacate-ensalada-d",
+   "nombre": "Gel de ducha natural FRUIT ENSALADA mango kiwi aguacate ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-mango-kiwi-aguacate-ensalada-d.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-sandia-melon-y-miel-ensalada-d",
+   "nombre": "Gel de ducha natural FRUIT ENSALADA sandía melón y miel ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-natural-fruit-ensalada-sandia-melon-y-miel-ensalada-d.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-agua-de-rosas-ensalada-de-fruta",
+   "nombre": "Gel de ducha natural FRUIT SALAD agua de rosas ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-agua-de-rosas-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-coco-ensalada-de-fruta",
+   "nombre": "Gel de ducha natural FRUIT SALAD coco ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-coco-ensalada-de-fruta.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-con-agua-de-rosas-y-cacao-ensalad",
+   "nombre": "Gel de ducha natural FRUIT SALAD con agua de rosas y cacao ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-de-ducha-natural-fruit-salad-con-agua-de-rosas-y-cacao-ensalad.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-hidratante-corporal-con-sabor-a-ensalada-de-frutas-48-h-con-co",
+   "nombre": "Gel hidratante corporal con sabor a ensalada de frutas (48 h) con complejo hialurónico y sandía",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-hidratante-corporal-con-sabor-a-ensalada-de-frutas-48-h-con-co.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-hidratante-corporal-con-vitamina-c-e-de-fruit-salad-con-mango",
+   "nombre": "Gel hidratante corporal con vitamina C+E de FRUIT SALAD con mango",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-hidratante-corporal-con-vitamina-c-e-de-fruit-salad-con-mango.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-gel-locion-corporal-fruit-salad-para-cuidados-intensivos-con-agua-",
+   "nombre": "Gel loción corporal FRUIT SALAD para cuidados intensivos con agua de rosas y cacao",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-gel-locion-corporal-fruit-salad-para-cuidados-intensivos-con-agua-.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con granada",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con magnolia",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con mango",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con naranja y curaçao",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con rosa damascena",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con rosa y chocolate",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con sandía",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas hecho a mano con una rosa roja",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x-x",
+   "nombre": "Jabón de glicerina con aroma a ensalada de frutas, hecho a mano con lavanda",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-jabon-de-glicerina-con-aroma-a-ensalada-de-frutas-hecho-a-mano-con-x-x-x-x-x-x-x-x.webp"
+  },
+  {
+   "id": "frutas-cuidado-corporal-set-de-regalo-de-ensalada-de-frutas-menta-lima-y-pomelo",
+   "nombre": "Set de regalo de ensalada de frutas menta lima y pomelo",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/frutas-cuidado-corporal-set-de-regalo-de-ensalada-de-frutas-menta-lima-y-pomelo.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-capilar-para-la-caida-del-cabello-ensalada-de-vegetales-",
+   "nombre": "Mascarilla capilar para la caída del cabello ENSALADA DE VEGETALES con ajo y proteína",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-capilar-para-la-caida-del-cabello-ensalada-de-vegetales-.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-capilar-regeneradora-ensalada-de-vegetales-con-argan-ros",
+   "nombre": "Mascarilla capilar regeneradora ENSALADA DE VEGETALES con argán, rosa y queratina",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-capilar-regeneradora-ensalada-de-vegetales-con-argan-ros.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-capilar-reparadora-vege-salad-con-aceituna-y-proteina",
+   "nombre": "Mascarilla capilar reparadora VEGE SALAD con aceituna y proteína",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-capilar-reparadora-vege-salad-con-aceituna-y-proteina.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-capilar-revitalizante-vege-salad-con-cacao-rosa-y-querat",
+   "nombre": "Mascarilla capilar revitalizante VEGE SALAD con cacao, rosa y queratina",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-capilar-revitalizante-vege-salad-con-cacao-rosa-y-querat.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-natural-para-cabello-seco-y-tratado-ensalada-de-vegetale",
+   "nombre": "Mascarilla natural para cabello seco y tratado ENSALADA DE VEGETALES con extracto de bambú",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-natural-para-cabello-seco-y-tratado-ensalada-de-vegetale.webp"
+  },
+  {
+   "id": "frutas-cuidado-capilar-mascarilla-reparadora-de-frambuesa-frutos-rojos-y-pimienta-negra-en",
+   "nombre": "Mascarilla reparadora de frambuesa, frutos rojos y pimienta negra. ensalada de fruta",
+   "categoria": "frutas",
+   "subcategoria": "cuidado-capilar",
+   "imagen": "img/productos/frutas-cuidado-capilar-mascarilla-reparadora-de-frambuesa-frutos-rojos-y-pimienta-negra-en.webp"
+  },
+  {
+   "id": "aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-normal-a-mixta-con-aceite-de-o",
+   "nombre": "Crema de día antiarrugas para piel normal a mixta con aceite de oliva natural",
+   "categoria": "aceitunas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-normal-a-mixta-con-aceite-de-o.webp"
+  },
+  {
+   "id": "aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-seca-y-sensible-con-aceite-de-",
+   "nombre": "Crema de día antiarrugas para piel seca y sensible con aceite de oliva natural",
+   "categoria": "aceitunas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/aceitunas-cuidado-facial-crema-de-dia-antiarrugas-para-piel-seca-y-sensible-con-aceite-de-.webp"
+  },
+  {
+   "id": "aceitunas-cuidado-facial-serum-reafirmante-con-acido-hialuronico-activo-para-pieles-madura",
+   "nombre": "Sérum reafirmante con ácido hialurónico activo para pieles maduras con aceite de oliva natural",
+   "categoria": "aceitunas",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/aceitunas-cuidado-facial-serum-reafirmante-con-acido-hialuronico-activo-para-pieles-madura.webp"
+  },
+  {
+   "id": "aceitunas-cuidado-corporal-jabon-de-glicerina-de-oliva-hecho-a-mano",
+   "nombre": "Jabón de glicerina de oliva hecho a mano",
+   "categoria": "aceitunas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/aceitunas-cuidado-corporal-jabon-de-glicerina-de-oliva-hecho-a-mano.webp"
+  },
+  {
+   "id": "aceitunas-cuidado-corporal-jabon-de-glicerina-olives-ref-109",
+   "nombre": "Jabón de glicerina OLIVES (ref. 109)",
+   "categoria": "aceitunas",
+   "subcategoria": "cuidado-corporal",
+   "imagen": "img/productos/aceitunas-cuidado-corporal-jabon-de-glicerina-olives-ref-109.webp"
+  },
+  {
+   "id": "sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-cuerpo-con-extracto-de-pomel",
+   "nombre": "Bandas depilantes en gel para el cuerpo con extracto de pomelo y bambú",
+   "categoria": "sentidos",
+   "subcategoria": "bandas-depilatorias",
+   "imagen": "img/productos/sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-cuerpo-con-extracto-de-pomel.webp"
+  },
+  {
+   "id": "sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-rostro-con-extracto-de-pomel",
+   "nombre": "Bandas depilantes en gel para el rostro con extracto de pomelo y bambú",
+   "categoria": "sentidos",
+   "subcategoria": "bandas-depilatorias",
+   "imagen": "img/productos/sentidos-bandas-depilatorias-bandas-depilantes-en-gel-para-el-rostro-con-extracto-de-pomel.webp"
+  },
+  {
+   "id": "sentidos-bandas-depilatorias-bandas-depilatorias-en-gel-para-la-zona-del-bikini-con-extrac",
+   "nombre": "Bandas depilatorias en gel para la zona del bikini con extracto de pomelo y bambú",
+   "categoria": "sentidos",
+   "subcategoria": "bandas-depilatorias",
+   "imagen": "img/productos/sentidos-bandas-depilatorias-bandas-depilatorias-en-gel-para-la-zona-del-bikini-con-extrac.webp"
+  },
+  {
+   "id": "flor-cuidado-facial-agua-de-lavanda-organica-con-efecto-hidratante-e-iluminador",
+   "nombre": "Agua de lavanda orgánica con efecto hidratante e iluminador",
+   "categoria": "flor",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/flor-cuidado-facial-agua-de-lavanda-organica-con-efecto-hidratante-e-iluminador.webp"
+  },
+  {
+   "id": "flor-cuidado-facial-crema-de-dia-iluminadora-para-piel-normal-con-aceite-de-lavanda-natura",
+   "nombre": "Crema de día iluminadora para piel normal con aceite de lavanda natural",
+   "categoria": "flor",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/flor-cuidado-facial-crema-de-dia-iluminadora-para-piel-normal-con-aceite-de-lavanda-natura.webp"
+  },
+  {
+   "id": "flor-cuidado-facial-crema-de-dia-iluminadora-para-pieles-secas-y-sensibles-con-extracto-de",
+   "nombre": "Crema de día iluminadora para pieles secas y sensibles con extracto de lavanda",
+   "categoria": "flor",
+   "subcategoria": "cuidado-facial",
+   "imagen": "img/productos/flor-cuidado-facial-crema-de-dia-iluminadora-para-pieles-secas-y-sensibles-con-extracto-de.webp"
+  },
+  {
+   "id": "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-maracuya-hecho-a-mano",
+   "nombre": "Jabón de glicerina con esponja de maracuyá hecho a mano",
+   "categoria": "flor",
+   "subcategoria": "jabones-de-glicerina",
+   "imagen": "img/productos/flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-maracuya-hecho-a-mano.webp"
+  },
+  {
+   "id": "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-papaya-hecho-a-mano",
+   "nombre": "Jabón de glicerina con esponja de papaya hecho a mano",
+   "categoria": "flor",
+   "subcategoria": "jabones-de-glicerina",
+   "imagen": "img/productos/flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-de-papaya-hecho-a-mano.webp"
+  },
+  {
+   "id": "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-sauco-y-yogur-hecho-a-mano",
+   "nombre": "Jabón de glicerina con esponja saúco y yogur hecho a mano",
+   "categoria": "flor",
+   "subcategoria": "jabones-de-glicerina",
+   "imagen": "img/productos/flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-sauco-y-yogur-hecho-a-mano.webp"
+  },
+  {
+   "id": "flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-y-aroma-marino-hecho-a-mano",
+   "nombre": "Jabón de glicerina con esponja y aroma marino hecho a mano",
+   "categoria": "flor",
+   "subcategoria": "jabones-de-glicerina",
+   "imagen": "img/productos/flor-jabones-de-glicerina-jabon-de-glicerina-con-esponja-y-aroma-marino-hecho-a-mano.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-emulsion-intima-con-acido-lactico-y-extracto-de-manzanilla",
+   "nombre": "Emulsión íntima con ácido láctico y extracto de manzanilla",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-emulsion-intima-con-acido-lactico-y-extracto-de-manzanilla.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-espuma-intima-con-extracto-de-manzanilla-y-acido-lactico",
+   "nombre": "Espuma íntima con extracto de manzanilla y ácido láctico",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-espuma-intima-con-extracto-de-manzanilla-y-acido-lactico.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-gel-intimo-con-aloe-vera-y-acido-lactico",
+   "nombre": "Gel íntimo con aloe vera y ácido láctico",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-gel-intimo-con-aloe-vera-y-acido-lactico.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-gel-intimo-con-extracto-de-manzanilla-y-acido-lactico",
+   "nombre": "Gel íntimo con extracto de manzanilla y ácido láctico",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-gel-intimo-con-extracto-de-manzanilla-y-acido-lactico.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-toallitas-intimas-biodegradables-para-piel-sensible-con-extracto-de-",
+   "nombre": "Toallitas íntimas biodegradables para piel sensible con extracto de manzanilla y ácido láctico",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-toallitas-intimas-biodegradables-para-piel-sensible-con-extracto-de-.webp"
+  },
+  {
+   "id": "intimo-higiene-intima-toallitas-intimas-biodegradables-para-un-cuidado-refrescante-con-ext",
+   "nombre": "Toallitas íntimas biodegradables para un cuidado refrescante con extracto de aloe vera y ácido láctico",
+   "categoria": "intimo",
+   "subcategoria": "higiene-intima",
+   "imagen": "img/productos/intimo-higiene-intima-toallitas-intimas-biodegradables-para-un-cuidado-refrescante-con-ext.webp"
+  }
+ ]
+}
